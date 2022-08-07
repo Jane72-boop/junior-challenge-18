@@ -423,6 +423,7 @@ nav .nav-subcontainer .button-icon img {
     color: #25252d;
     width: 12em;
     padding: 2.5em 2em;
+    box-shadow: 0 0 15px rgba(63, 65, 100, 0.8);
   }
   nav .nav-subcontainer ul {
     border-radius: 10px;
