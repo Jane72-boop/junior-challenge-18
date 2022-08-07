@@ -311,6 +311,13 @@ footer {
   justify-content: center;
   margin-inline: auto;
   width: 100%;
+  h2 {
+    color: $very-dark-blue;
+  }
+
+  p {
+    color: $very-dark-grayish-blue;
+  }
 
   img {
     width: Min(95%, 70em);

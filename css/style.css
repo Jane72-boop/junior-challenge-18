@@ -258,6 +258,12 @@ footer {
   margin-inline: auto;
   width: 100%;
 }
+.feature h2 {
+  color: hsl(208deg, 49%, 24%);
+}
+.feature p {
+  color: #4b5862;
+}
 .feature img {
   width: min(95%, 70em);
   margin: 3em auto 2em auto;
